@@ -1,10 +1,11 @@
 package com.example.etproj1;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+import java.util.Random;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
